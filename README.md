@@ -8,13 +8,13 @@
 
 ## - TASK 2 -
 
-### List all variables currently loaded in to memory.
+### List all variables currently loaded in to memory
 
 ![Image text](https://github.com/DavidMuletMelia/Variable-and-Comparison-Operators/blob/main/PowerShell%202/2.PNG)
 
 ## - TASK 3 -
 
-### Multiple two Int variables together.
+### Multiple two Int variables together
 
 ![Image text](https://github.com/DavidMuletMelia/Variable-and-Comparison-Operators/blob/main/PowerShell%202/3.PNG)
 
